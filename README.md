@@ -26,17 +26,9 @@ I thrive at the intersection of technology and business, and I’m actively look
 
 ---
 
-## 📊 Projects
-
-- **AI NutriCoach** – A FastAPI-based AI agent for food detection, calorie estimation, and dietary recommendations (CrewAI, LangChain, WatsonX)
-- **CloudMart** – Multi-cloud architecture project integrating AI and DevOps for seamless data operations
-- **Multilingual Text Similarity Research** – Developed and analyzed models to evaluate cross-lingual sentence embeddings
-
----
-
 ## 📫 Let’s Connect
 
-- 📧 Email: janhavijadhav.info@gmail.com  
+- 📧 Email: jjanhavi2000@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-jadhav/)  
 - 💻 [Portfolio Website](https://janhavi.framer.wiki/) *(coming soon)*  
 - 📁 [Resume](https://drive.google.com/file/d/14eQNPwQlmga4C90YLmusnnCZ9El3hE0i/view?usp=sharing) *(available upon request)*
