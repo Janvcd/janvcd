@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Janhavi Jadhav
 
-<!--
-**Janvcd/janvcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Management Information Systems (May 2025)  
+📍 Based in New York | Open to full-time roles in Data Science, Cloud, and AI/ML Engineering  
+💡 Passionate about leveraging data and intelligent systems to solve real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a graduate student at Pace University with a strong foundation in data analytics, cloud computing, and AI. With over 2 years of experience as a Business Data Analyst Intern and in academic research, I’ve built dashboards, conducted data modeling, and contributed to impactful research in areas like multilingual text similarity and data-driven insights.
+
+I thrive at the intersection of technology and business, and I’m actively looking for full-time opportunities where I can contribute to data-driven decision-making, scalable cloud solutions, and innovative AI applications.
+
+---
+
+## 💼 Skills
+
+- **Languages:** Python, R, SQL  
+- **Data & BI:** Power BI, Tableau, Looker, Excel  
+- **Cloud:** Google Cloud Platform (GCP), AWS (learning)  
+- **Tools & Frameworks:** FastAPI, LangChain, Pydantic, Django  
+- **ML & AI:** Scikit-learn, Natural Language Processing (NLP), ML pipelines  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Project Management:** Agile, Git, JIRA, Figma (for UI)
+
+---
+
+## 📊 Projects
+
+- **AI NutriCoach** – A FastAPI-based AI agent for food detection, calorie estimation, and dietary recommendations (CrewAI, LangChain, WatsonX)
+- **CloudMart** – Multi-cloud architecture project integrating AI and DevOps for seamless data operations
+- **Multilingual Text Similarity Research** – Developed and analyzed models to evaluate cross-lingual sentence embeddings
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: janhavijadhav.info@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-jadhav/)  
+- 💻 [Portfolio Website](#) *(coming soon)*  
+- 📁 [Resume](#) *(available upon request)*
+
+---
+
+🌟 *Let’s build intelligent, scalable, and ethical solutions together!*
