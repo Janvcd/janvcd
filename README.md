@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Janhavi Jadhav
 
-🎓 MS in Management Information Systems (May 2025)  
+🎓 MS in Management Information Systems  
 📍 Based in New York | Open to full-time roles in Data Science, Cloud, and AI/ML Engineering  
 💡 Passionate about leveraging data and intelligent systems to solve real-world problems
 
@@ -28,7 +28,7 @@ I thrive at the intersection of technology and business, and I’m actively look
 
 ## 📫 Let’s Connect
 
-- 📧 Email: jjanhavi2000@gmail.com  
+- 📧 Email: janjadhav5@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-jadhav/)  
 - 💻 [Portfolio Website](https://janhavi.framer.wiki/) *(coming soon)*  
 - 📁 [Resume](https://drive.google.com/file/d/14eQNPwQlmga4C90YLmusnnCZ9El3hE0i/view?usp=sharing) *(available upon request)*
