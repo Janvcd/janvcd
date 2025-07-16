@@ -31,7 +31,7 @@ I thrive at the intersection of technology and business, and I’m actively look
 - 📧 Email: janjadhav5@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-jadhav/)  
 - 💻 [Portfolio Website](https://janhavi.framer.wiki/) *(coming soon)*  
-- 📁 [Resume](https://drive.google.com/file/d/14eQNPwQlmga4C90YLmusnnCZ9El3hE0i/view?usp=sharing) *(available upon request)*
+- 📁 [Resume](https://drive.google.com/file/d/1QqXeocVIRBRGu20htuZ1ebuuWZNVMOGX/view?usp=sharing) *(available upon request)*
 
 ---
 
